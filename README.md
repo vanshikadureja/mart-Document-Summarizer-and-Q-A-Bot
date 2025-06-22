@@ -1,1 +1,1 @@
-# mart-Document-Summarizer-and-Q-A-Bot
+Smart-Document-Summarizer-and-Q-A-Bot
